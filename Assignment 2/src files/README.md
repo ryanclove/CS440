@@ -1,6 +1,6 @@
 ## Source Files
 
-# pdf submitted files:
+# Submitted files:
 Assignment2.pdf  
 Assignment2.tex
 
