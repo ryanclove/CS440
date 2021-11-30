@@ -1,3 +1,3 @@
 ## Midterm Exam
 
-Included are my answers, the exam, and the solutions given to us after the exam
+Included are my answers and the solutions given to us after the exam
