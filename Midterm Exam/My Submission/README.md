@@ -1,5 +1,7 @@
 ## My Submission
 
-Latex and Pdf
+# I submitted the PDF
+
+The latex file and the images were used to create my pdf
 
 Grade: 
