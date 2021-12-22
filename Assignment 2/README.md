@@ -2,4 +2,4 @@
 
 Ryan Coslove
 
-Grade: TBD/70
+Grade: 65.77/70 (93.96%)
