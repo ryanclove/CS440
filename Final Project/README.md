@@ -1,3 +1,3 @@
 # Face and Digit Classification
 
-Grade: TBD/100
+Grade: 86/100 (86%)
